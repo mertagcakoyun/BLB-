@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "282688815106",
+    "firebase_url": "https://blbi-7f2d0.firebaseio.com",
+    "project_id": "blbi-7f2d0",
+    "storage_bucket": "blbi-7f2d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282688815106:android:a27601f92b32d2c327a71b",
+        "android_client_info": {
+          "package_name": "com.example.blbi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282688815106-kkp3gseoiisdb28qqcjkik0l7b0n3qhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv8ACKavVpOEDxGtCNv9gK8zGoX2kVF_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282688815106-kkp3gseoiisdb28qqcjkik0l7b0n3qhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
